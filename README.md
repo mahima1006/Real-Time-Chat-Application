@@ -10,7 +10,7 @@ DOMAIN: FRONT END DEVELOPMENT
 
 MENTOR : NEELA SANTOSH
 
-#Task description
+# Task description
 For this task, a Real-time Chat Application was developed using React.js for the frontend. The main goal of the project was to create a simple, clean, and responsive messaging interface that enables users to send and receive messages instantly. The application allows users to enter a name before joining the chat, send messages and view live message history, which updates in real-time without the need to to reload the page. This creates a smooth and interactive user experience that mirrors real-time communication, similar to widely used chat platforms.
 
 The frontend was developed using React,HTML and CSS for structuring and styling the interface.The interface includes a heading, a username entry screen, a scrollable chat window to display messages, and an input form to send new messages. Each message is styled clearly and appears in chronological order, offering a smooth chat flow.
